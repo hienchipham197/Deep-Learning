@@ -8,4 +8,4 @@ Um dieses Jupyter Notebook erfolgreich auszuführen, öffnen Sie den untenstehen
 Nach erfolgreicher Ausführung des Codes werden die Daten aus der Datei "lending_club_info.csv" geladen. Im Rahmen der explorativen Datenanalyse werden insgesamt 10 Diagramme angezeigt, um einen umfassenden Überblick über die Daten zu erhalten. Anschließend werden die Daten erfolgreich bereinigt und für die weitere Verarbeitung aufbereitet. Darauf aufbauend wird ein Modell erstellt, das prognostiziert, ob eine Person ihren Kredit tatsächlich zurückzahlen wird.
 
 # Binder Badge
-Dieses Projekt auf Binder ausführen:
+Dieses Projekt auf Binder ausführen: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hienchipham197/Deep-Learning/HEAD)
